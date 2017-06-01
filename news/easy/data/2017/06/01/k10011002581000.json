@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011002581000.mp3", 
+  "title": "位置を知らせる日本の人工衛星「みちびき」を打ち上げる", 
+  "news_prearranged_time": "2017-06-01 15:50:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>スマートフォンや<ruby>車<rt>くるま</rt></ruby>の<ruby>道<rt>みち</rt></ruby><ruby>案内<rt>あんない</rt></ruby>をするカーナビなどに<ruby>使<rt>つか</rt></ruby>われているＧＰＳは、アメリカの<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>人工衛星<rt>じんこうえいせい</rt></ruby></a>を<ruby>使<rt>つか</rt></ruby>って<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>位置<rt>いち</rt></ruby></a>を<ruby>知<rt>し</rt></ruby>らせています。", 
+  "news_web_movie_uri": "k10011002581_201706011025_201706011026.mp4", 
+  "title_with_ruby": "<ruby>位置<rt>いち</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせる<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>「みちびき」を<ruby>打<rt>う</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>げる", 
+  "news_id": "k10011002581000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170601/../20170601/K10011002581_1706010951_1706010953_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

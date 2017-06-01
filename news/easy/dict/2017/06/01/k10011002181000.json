@@ -1,0 +1,34 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>額</rb><rt>ひたい</rt></ruby>。",
+          "hyouki": [
+            "おでこ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>額</rb><rt>ひたい</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>出</rb><rt>で</rt></ruby>ていること。",
+          "hyouki": [
+            "おでこ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "はんこ。",
+          "hyouki": [
+            "印"
+          ]
+        },
+        {
+          "def": "しるしをつける。しるし。",
+          "hyouki": [
+            "印"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011000371000.mp3", 
+  "title": "留学生にコンビニでアルバイトをしてほしい", 
+  "news_prearranged_time": "2017-06-01 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>コンビニ</a>では<ruby>今<rt>いま</rt></ruby>、アルバイトの<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくて<ruby>困<rt>こま</rt></ruby>っている<ruby>店<rt>みせ</rt></ruby>がたくさんあります。", 
+  "news_web_movie_uri": "k10011000371_201705301854_201705301855.mp4", 
+  "title_with_ruby": "<ruby>留学生<rt>りゅうがくせい</rt></ruby>にコンビニでアルバイトをしてほしい", 
+  "news_id": "k10011000371000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170530/../20170530/K10011000371_1705301726_1705301817_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

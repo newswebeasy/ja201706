@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011003791000.mp3", 
+  "title": "トランプ大統領「アメリカはパリ協定から出る」", 
+  "news_prearranged_time": "2017-06-02 16:35:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>地球<rt>ちきゅう</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>気温<rt>きおん</rt></ruby></a>が<ruby>上<rt>あ</rt></ruby>がらないようにするために<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby></a>などのガスを<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>減<rt>へ</rt></ruby>らす</a>と<a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby>国連<rt>こくれん</rt></ruby></a>で<ruby>決<rt>き</rt></ruby>めた「パリ<ruby>協定<rt>きょうてい</rt></ruby>」が、<ruby>去年<rt>きょねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まりました。", 
+  "news_web_movie_uri": "k10011003791_201706020506_201706020511.mp4", 
+  "title_with_ruby": "トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「アメリカはパリ<ruby>協定<rt>きょうてい</rt></ruby>から<ruby>出<rt>で</rt></ruby>る」", 
+  "news_id": "k10011003791000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170602/../20170602/K10011003791_1706020441_1706020441_01_02.jpg?utm_int=news_contents_news-main_002", 
+  "news_easy_movie_uri": "''"
+}

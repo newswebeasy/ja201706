@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "あたま。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "はじめ。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "頭"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。",
+          "hyouki": [
+            "パンダ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。",
+          "hyouki": [
+            "パンダ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "育つ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。",
+          "hyouki": [
+            "育つ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>母親</rb><rt>ははおや</rt></ruby>から、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>生</rb><rt>う</rt></ruby>まれた、<ruby><rb>二人</rb><rt>ふたり</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。<ruby><rb>双生児</rb><rt>そうせいじ</rt></ruby>。",
+          "hyouki": [
+            "双子"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rb><rt>。",
+          "hyouki": [
+            "トラック"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "だます。",
+          "hyouki": [
+            "乗せる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>利用</rb><rt>りよう</rt></ruby>できるように<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>設備</rb><rt>せつび</rt></ruby>。",
+          "hyouki": [
+            "施設"
+          ]
+        }
+      ]
+    }
+  }
+}

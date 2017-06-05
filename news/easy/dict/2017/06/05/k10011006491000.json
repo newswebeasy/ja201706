@@ -1,0 +1,184 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。",
+          "hyouki": [
+            "テロ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "はじきとばす。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>除</rb><rt>のぞ</rt></ruby>く。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にわたす<ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>が<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>字</rb><rt>じ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くとき、<ruby><rb>線</rb><rt>せん</rt></ruby>の<ruby><rb>終</rb><rt>お</rt></ruby>わりをはらい<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "撥ねる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "とがったものをつき<ruby><rb>通</rb><rt>とお</rt></ruby>す。",
+          "hyouki": [
+            "刺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鼻</rb><rt>はな</rt></ruby>・<ruby><rb>舌</rb><rt>した</rt></ruby>・はだなどに、するどい<ruby><rb>刺激</rb><rt>しげき</rt></ruby>をあたえる。",
+          "hyouki": [
+            "刺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>走者</rb><rt>そうしゃ</rt></ruby>にタッチして、アウトにする。",
+          "hyouki": [
+            "刺す"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "（<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。",
+          "hyouki": [
+            "撃つ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。",
+          "hyouki": [
+            "イスラム教"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。",
+          "hyouki": [
+            "戦う"
+          ]
+        },
+        {
+          "def": "わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "戦う"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ニュースを<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>新聞社</rb><rt>しんぶんしゃ</rt></ruby>・<ruby><rb>放送局</rb><rt>ほうそうきょく</rt></ruby>・<ruby><rb>雑誌社</rb><rt>ざっししゃ</rt></ruby>などに<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>。",
+          "hyouki": [
+            "通信社"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        }
+      ]
+    }
+  }
+}

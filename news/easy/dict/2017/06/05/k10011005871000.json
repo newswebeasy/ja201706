@@ -1,0 +1,166 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>台</rb><rt>だい</rt></ruby>の<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からラケットで<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ピンポン。",
+          "hyouki": [
+            "卓球"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "おかね。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」のように、だいじな。りっぱな。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "かなもの。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。",
+          "hyouki": [
+            "金"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>板</rb><rt>いた</rt></ruby>に、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文字</rb><rt>もじ</rt></ruby>などをうきぼりにしたもの。<ruby><rb>記念品</rb><rt>きねんひん</rt></ruby>や<ruby><rb>賞品</rb><rt>しょうひん</rt></ruby>などにする。",
+          "hyouki": [
+            "メダル"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "男子"
+          ]
+        },
+        {
+          "def": "おとこ。",
+          "hyouki": [
+            "男子"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>女性</rb><rt>じょせい</rt></ruby>。",
+          "hyouki": [
+            "女子"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>二</rb><rt>ふた</rt></ruby>つまたは<ruby><rb>二人</rb><rt>ふたり</rt></ruby>で、ひと<ruby><rb>組</rb><rt>くみ</rt></ruby>みになったもの。<ruby><rb>対</rb><rt>つい</rt></ruby>。ペアー。",
+          "hyouki": [
+            "ペア"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>がつらくて、がまんできない。",
+          "hyouki": [
+            "苦しい"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>足</rb><rt>た</rt></ruby>りなくて<ruby><rb>困</rb><rt>こま</rt></ruby>るようす。",
+          "hyouki": [
+            "苦しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>無理</rb><rt>むり</rt></ruby>があるようす。",
+          "hyouki": [
+            "苦しい"
+          ]
+        },
+        {
+          "def": "…しにくい。",
+          "hyouki": [
+            "苦しい"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "テニスや<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>などで、<ruby><rb>一対一</rb><rt>いったいいち</rt></ruby>でする<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "シングルス"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や、<ruby><rb>電気</rb><rt>でんき</rt></ruby>をよく<ruby><rb>伝</rb><rt>つた</rt></ruby>える、<ruby><rb>赤</rb><rt>あか</rt></ruby>っぽい<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。あかがね。",
+          "hyouki": [
+            "銅"
+          ]
+        }
+      ]
+    }
+  }
+}

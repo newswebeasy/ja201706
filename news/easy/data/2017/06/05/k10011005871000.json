@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011005871000.mp3", 
+  "title": "卓球の世界選手権で日本の選手が金メダルを取る", 
+  "news_prearranged_time": "2017-06-05 17:10:00", 
+  "news_easy_image_uri": "k10011005871000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>卓球<rt>たっきゅう</rt></ruby></a>の<ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>という<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>大会<rt>たいかい</rt></ruby></a>で<ruby>３日<rt>みっか</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby>男子<rt>だんし</rt></ruby></a>と<a href='javascript:void(0)' class='dicWin' id='id-0006'><ruby>女子<rt>じょし</rt></ruby></a>が<a href='javascript:void(0)' class='dicWin' id='id-0007'>ペア</a>になるミックスダブルスの<ruby>試合<rt>しあい</rt></ruby>があって、<ruby>日本<rt>にっぽん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0007'>ペア</a>が<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>金<rt>きん</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0003'>メダル</a>を<ruby>取<rt>と</rt></ruby>りました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>世界選手権<rt>せかいせんしゅけん</rt></ruby>で<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>金<rt>きん</rt></ruby>メダルを<ruby>取<rt>と</rt></ruby>る", 
+  "news_id": "k10011005871000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

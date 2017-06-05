@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011006651000.mp3", 
+  "title": "和歌山県の動物園の３頭のパンダが中国に引っ越す", 
+  "news_prearranged_time": "2017-06-05 17:10:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>和歌山県<rt>わかやまけん</rt></ruby><ruby>白浜町<rt>しらはまちょう</rt></ruby>にある<ruby>動物園<rt>どうぶつえん</rt></ruby>「アドベンチャーワールド」で<ruby>生<rt>う</rt></ruby>まれて<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>育<rt>そだ</rt></ruby>っ</a>た３<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>頭<rt>とう</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>パンダ</a>が<ruby>５日<rt>いつか</rt></ruby>、<ruby>中国<rt>ちゅうごく</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しました。", 
+  "news_web_movie_uri": "k10011006651_201706050512_201706050513.mp4", 
+  "title_with_ruby": "<ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>の３<ruby>頭<rt>とう</rt></ruby>のパンダが<ruby>中国<rt>ちゅうごく</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>す", 
+  "news_id": "k10011006651000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170605/../20170605/K10011006651_1706050512_1706050513_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011006811000.mp3", 
+  "title": "中学生がコンピューターウイルスを作った疑い", 
+  "news_prearranged_time": "2017-06-06 15:50:00", 
+  "news_easy_image_uri": "k10011006811000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>警察<rt>けいさつ</rt></ruby>は<ruby>５日<rt>いつか</rt></ruby>、<ruby>大阪府<rt>おおさかふ</rt></ruby>の１４<ruby>歳<rt>さい</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby>の<ruby>中学生<rt>ちゅうがくせい</rt></ruby>をコンピューターの<a href='javascript:void(0)' class='dicWin' id='id-0000'>ウイルス</a>を<ruby>作<rt>つく</rt></ruby>った<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>疑<rt>うたが</rt></ruby>い</a>で<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>逮捕<rt>たいほ</rt></ruby></a>しました。", 
+  "news_web_movie_uri": "k10011006811_201706051603_201706051603.mp4", 
+  "title_with_ruby": "<ruby>中学生<rt>ちゅうがくせい</rt></ruby>がコンピューターウイルスを<ruby>作<rt>つく</rt></ruby>った<ruby>疑<rt>うたが</rt></ruby>い", 
+  "news_id": "k10011006811000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

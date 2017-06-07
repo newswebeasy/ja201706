@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>近</rb><rt>ちか</rt></ruby>くや、<ruby><rb>草</rb><rt>くさ</rt></ruby>むらなどにすむ<ruby><rb>小形</rb><rt>こがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く<ruby><rb>四本</rb><rt>よんほん</rt></ruby>の<ruby><rb>短</rb><rt>みじか</rt></ruby>い<ruby><rb>足</rb><rt>あし</rt></ruby>があり、<ruby><rb>尾</rb><rt>お</rt></ruby>をおさえると<ruby><rb>切</rb><rt>き</rt></ruby>ってにげる。",
+          "hyouki": [
+            "とかげ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。",
+          "hyouki": [
+            "飼う"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>がかった<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>。",
+          "hyouki": [
+            "黄緑"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>野菜</rb><rt>やさい</rt></ruby>・<ruby><rb>果物</rb><rt>くだもの</rt></ruby>・<ruby><rb>草花</rb><rt>くさばな</rt></ruby>などを<ruby><rb>大</rb><rt>おお</rt></ruby>がかりに<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "農園"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>にえさをあたえて<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。",
+          "hyouki": [
+            "飼う"
+          ]
+        }
+      ]
+    }
+  }
+}

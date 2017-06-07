@@ -1,0 +1,126 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "くぼんだ<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "底"
+          ]
+        },
+        {
+          "def": "いちばんおく<ruby><rb>深</rb><rt>ふか</rt></ruby>いところ。",
+          "hyouki": [
+            "底"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>果</rb><rt>は</rt></ruby>て。<ruby><rb>限</rb><rt>かぎ</rt></ruby>り。",
+          "hyouki": [
+            "底"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>石</rb><rt>いし</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きなもの。<ruby><rb>岩石</rb><rt>がんせき</rt></ruby>。",
+          "hyouki": [
+            "岩"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>銀白色</rb><rt>ぎんはくしょく</rt></ruby>でかたく、<ruby><rb>酸化</rb><rt>さんか</rt></ruby>すると<ruby><rb>青</rb><rt>あお</rt></ruby>になる。<ruby><rb>合金</rb><rt>ごうきん</rt></ruby>の<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "コバルト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>空色</rb><rt>そらいろ</rt></ruby>。",
+          "hyouki": [
+            "コバルト"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>白</rb><rt>しろ</rt></ruby>いつやがあり、<ruby><rb>銀</rb><rt>ぎん</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>ている。",
+          "hyouki": [
+            "ニッケル"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールの、ピッチャーとキャッチャー。",
+          "hyouki": [
+            "バッテリー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>充電</rb><rt>じゅうでん</rt></ruby>して、くり<ruby><rb>返</rb><rt>かえ</rt></ruby>し<ruby><rb>使</rb><rt>つか</rt></ruby>える<ruby><rb>電池</rb><rt>でんち</rt></ruby>。<ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>。",
+          "hyouki": [
+            "バッテリー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "（いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ]
+    }
+  }
+}

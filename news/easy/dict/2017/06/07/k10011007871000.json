@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を、<ruby><rb>音声</rb><rt>おんせい</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えて<ruby><rb>聞</rb><rt>き</rt></ruby>かせるための<ruby><rb>器械</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "スピーカー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>円</rb><rt>まる</rt></ruby>くて<ruby><rb>長</rb><rt>なが</rt></ruby>く、<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>あ</rt></ruby>いているもの。<ruby><rb>管</rb><rt>くだ</rt></ruby>。",
+          "hyouki": [
+            "筒"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>録音</rb><rt>ろくおん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>をするとき、<ruby><rb>声</rb><rt>こえ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れに<ruby><rb>変</rb><rt>か</rt></ruby>える<ruby><rb>器械</rb><rt>きかい</rt></ruby>。マイク。マイクロフォン。",
+          "hyouki": [
+            "マイクロホン"
+          ]
+        }
+      ]
+    }
+  }
+}

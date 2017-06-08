@@ -1,0 +1,224 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。",
+          "hyouki": [
+            "テロ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。",
+          "hyouki": [
+            "議会"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>・ピストルなど、<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>をうつ<ruby><rb>武器</rb><rt>ぶき</rt></ruby>。",
+          "hyouki": [
+            "銃"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>などを）<ruby><rb>発射</rb><rt>はっしゃ</rt></ruby>する。",
+          "hyouki": [
+            "撃つ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>仕組</rb><rt>しく</rt></ruby>みや<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えること。",
+          "hyouki": [
+            "革命"
+          ]
+        },
+        {
+          "def": "ものごとが<ruby><rb>根本</rb><rt>こんぽん</rt></ruby>から<ruby><rb>大</rb><rt>おお</rt></ruby>きく<ruby><rb>変</rb><rt>か</rt></ruby>わること。",
+          "hyouki": [
+            "革命"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>教</rb><rt>おし</rt></ruby>え<ruby><rb>導</rb><rt>みちび</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>指導者</rb><rt>しどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "リーダー"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>教</rb><rt>おし</rt></ruby>える<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。",
+          "hyouki": [
+            "師"
+          ]
+        },
+        {
+          "def": "そのことを<ruby><rb>専門</rb><rt>せんもん</rt></ruby>にする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "師"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>をうめる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そのしるし。",
+          "hyouki": [
+            "墓"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "（<ruby><rb>横</rb><rt>よこ</rt></ruby>になっていたものを）<ruby><rb>立</rb><rt>た</rt></ruby>たせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>を<ruby><rb>覚</rb><rt>さ</rt></ruby>まさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>何</rb><rt>なに</rt></ruby>かを）<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じさせる。",
+          "hyouki": [
+            "起こす"
+          ]
+        },
+        {
+          "def": "ほりかえす。",
+          "hyouki": [
+            "起こす"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "ニュースを<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>新聞社</rb><rt>しんぶんしゃ</rt></ruby>・<ruby><rb>放送局</rb><rt>ほうそうきょく</rt></ruby>・<ruby><rb>雑誌社</rb><rt>ざっししゃ</rt></ruby>などに<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>。",
+          "hyouki": [
+            "通信社"
+          ]
+        }
+      ],
+      "0015": [
+        {
+          "def": "いちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>位</rb><rt>くらい</rt></ruby>の<ruby><rb>軍人</rb><rt>ぐんじん</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。",
+          "hyouki": [
+            "兵士"
+          ]
+        }
+      ],
+      "0016": [
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        }
+      ],
+      "0017": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0018": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ]
+    }
+  }
+}

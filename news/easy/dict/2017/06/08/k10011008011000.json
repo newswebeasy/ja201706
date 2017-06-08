@@ -1,0 +1,140 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>から<ruby><rb>七月</rb><rt>しちがつ</rt></ruby>にかけて<ruby><rb>降</rb><rt>ふ</rt></ruby>り<ruby><rb>続</rb><rt>つづ</rt></ruby>く<ruby><rb>雨</rb><rt>あめ</rt></ruby>。また、その<ruby><rb>季節</rb><rt>きせつ</rt></ruby>。ばいう。",
+          "hyouki": [
+            "梅雨"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "つかれなどが、なくなる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>ることができる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "取れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>近海</rb><rt>きんかい</rt></ruby>の<ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>にいる<ruby><rb>魚</rb><rt>さかな</rt></ruby>。マイワシ・ウルメイワシ・カタクチイワシがいる。<ruby><rb>背</rb><rt>せ</rt></ruby>は<ruby><rb>青黒</rb><rt>あおぐろ</rt></ruby>くて、<ruby><rb>腹</rb><rt>はら</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>い。<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。",
+          "hyouki": [
+            "鰯"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にある<ruby><rb>脂肪</rb><rt>しぼう</rt></ruby>。",
+          "hyouki": [
+            "脂"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "つかれなどが、なくなる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>ることができる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "取れる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ただ<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。また、ほんの<ruby><rb>少</rb><rt>すこ</rt></ruby>し。",
+          "hyouki": [
+            "隻"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "隻"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。一トンは、一〇〇〇キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        }
+      ]
+    }
+  }
+}

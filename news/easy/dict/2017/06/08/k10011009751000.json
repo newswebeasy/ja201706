@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせ<ruby><rb>広</rb><rt>ひろ</rt></ruby>めること。",
+          "hyouki": [
+            "宣伝"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>げさに<ruby><rb>言</rb><rt>い</rt></ruby>いふらすこと。",
+          "hyouki": [
+            "宣伝"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。",
+          "hyouki": [
+            "マーク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。",
+          "hyouki": [
+            "マーク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。",
+          "hyouki": [
+            "マーク"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。",
+          "hyouki": [
+            "デザイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。",
+          "hyouki": [
+            "デザイン"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にとじた、うすい<ruby><rb>本</rb><rt>ほん</rt></ruby>。パンフ。",
+          "hyouki": [
+            "パンフレット"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>文</rb><rt>ぶん</rt></ruby>をかいた<ruby><rb>宣伝用</rb><rt>せんでんよう</rt></ruby>の<ruby><rb>張</rb><rt>は</rt></ruby>り<ruby><rb>紙</rb><rt>がみ</rt></ruby>。",
+          "hyouki": [
+            "ポスター"
+          ]
+        }
+      ]
+    }
+  }
+}

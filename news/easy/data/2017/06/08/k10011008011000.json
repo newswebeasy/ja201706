@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011008011000.mp3", 
+  "title": "梅雨の季節が始まって「入梅イワシ」がたくさんとれる", 
+  "news_prearranged_time": "2017-06-08 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>梅雨<rt>つゆ</rt></ruby></a>の<ruby>季節<rt>きせつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる「<ruby>入梅<rt>にゅうばい</rt></ruby>」の<ruby>頃<rt>ころ</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0001'>とれる</a><a href='javascript:void(0)' class='dicWin' id='id-0002'>イワシ</a>は、いちばん<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>脂<rt>あぶら</rt></ruby></a>が<ruby>多<rt>おお</rt></ruby>くておいしいと<ruby>言<rt>い</rt></ruby>われています。", 
+  "news_web_movie_uri": "k10011008011_201706061223_201706061224.mp4", 
+  "title_with_ruby": "<ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>季節<rt>きせつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まって「<ruby>入梅<rt>にゅうばい</rt></ruby>イワシ」がたくさんとれる", 
+  "news_id": "k10011008011000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170606/../20170606/K10011008011_1706061223_1706061225_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

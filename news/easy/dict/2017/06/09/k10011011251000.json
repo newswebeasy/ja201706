@@ -1,0 +1,22 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>を<ruby><rb>回遊</rb><rt>かいゆう</rt></ruby>する<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>魚</rb><rt>さかな</rt></ruby>。メバチ・キハダマグロ・クロマグロなどがいる。さし<ruby><rb>身</rb><rt>み</rt></ruby>やすしにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。",
+          "hyouki": [
+            "鮪"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>貝</rb><rt>かい</rt></ruby>などをとることを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>漁夫</rb><rt>ぎょふ</rt></ruby>。",
+          "hyouki": [
+            "漁師"
+          ]
+        }
+      ]
+    }
+  }
+}

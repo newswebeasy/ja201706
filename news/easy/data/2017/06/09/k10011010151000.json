@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011010151000.mp3", 
+  "title": "山に登った人がどこにいるか　アプリを使って知る実験", 
+  "news_prearranged_time": "2017-06-09 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>御嶽山<rt>おんたけさん</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>噴火<rt>ふんか</rt></ruby></a>したとき、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>助<rt>たす</rt></ruby>け</a>に<ruby>行<rt>い</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>たちは、<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>がどこにいるかわからなくて<ruby>困<rt>こま</rt></ruby>りました。", 
+  "news_web_movie_uri": "k10011010151_201706080632_201706080633.mp4", 
+  "title_with_ruby": "<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>がどこにいるか　アプリを<ruby>使<rt>つか</rt></ruby>って<ruby>知<rt>し</rt></ruby>る<ruby>実験<rt>じっけん</rt></ruby>", 
+  "news_id": "k10011010151000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170608/../20170608/K10011010151_1706080031_1706080633_01_02.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_easy_movie_uri": "''"
+}

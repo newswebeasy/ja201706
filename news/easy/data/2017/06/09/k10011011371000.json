@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011011371000.mp3", 
+  "title": "プルトニウムなどの放射性物質が５人にかかる事故", 
+  "news_prearranged_time": "2017-06-09 15:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>茨城県<rt>いばらきけん</rt></ruby>にある<ruby>日本<rt>にほん</rt></ruby><ruby>原子力<rt>げんしりょく</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby><ruby>機構<rt>きこう</rt></ruby>の<ruby>大洗<rt>おおあらい</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby><ruby>開発<rt>かいはつ</rt></ruby>センターで<ruby>６日<rt>むいか</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0000'>プルトニウム</a>などの<ruby>放射性物質<rt>ほうしゃせいぶっしつ</rt></ruby>が、<ruby>仕事<rt>しごと</rt></ruby>をしていた５<ruby>人<rt>にん</rt></ruby>にかかる<ruby>事故<rt>じこ</rt></ruby>がありました。", 
+  "news_web_movie_uri": "k10011011371_201706090516_201706090518.mp4", 
+  "title_with_ruby": "プルトニウムなどの<ruby>放射性物質<rt>ほうしゃせいぶっしつ</rt></ruby>が５<ruby>人<rt>にん</rt></ruby>にかかる<ruby>事故<rt>じこ</rt></ruby>", 
+  "news_id": "k10011011371000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20170609/../20170609/K10011011371_1706090516_1706090519_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

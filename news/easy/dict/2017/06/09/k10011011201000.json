@@ -1,0 +1,162 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>台</rb><rt>だい</rt></ruby>の<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からラケットで<ruby><rb>球</rb><rt>たま</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ピンポン。",
+          "hyouki": [
+            "卓球"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>をのせるもの。",
+          "hyouki": [
+            "台"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "台"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>くて<ruby><rb>平</rb><rt>たい</rt></ruby>らな<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "台"
+          ]
+        },
+        {
+          "def": "<ruby><rb>元</rb><rt>もと</rt></ruby>になるもの。",
+          "hyouki": [
+            "台"
+          ]
+        },
+        {
+          "def": "<ruby><rb>車</rb><rt>くるま</rt></ruby>や<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "台"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>のだいたいの<ruby><rb>範囲</rb><rt>はんい</rt></ruby>をいうことば。",
+          "hyouki": [
+            "台"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "テニス・<ruby><rb>卓球</rb><rt>たっきゅう</rt></ruby>・バドミントンなどで、ボールを<ruby><rb>打</rb><rt>う</rt></ruby>つ<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "ラケット"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ]
+    }
+  }
+}

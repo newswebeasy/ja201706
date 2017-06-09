@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011009411000.mp3", 
+  "title": "沖縄　１００歳のおばあさんが育てたあじさいの花が咲く", 
+  "news_prearranged_time": "2017-06-09 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>本部町<rt>もとぶちょう</rt></ruby>の「よへなあじさい<ruby>園<rt>えん</rt></ruby>」では、<ruby>青<rt>あお</rt></ruby>や<ruby>白<rt>しろ</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0001'>ピンク</a><ruby>色<rt>いろ</rt></ruby>などの<a href='javascript:void(0)' class='dicWin' id='id-0000'>あじさい</a>の<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いています。", 
+  "news_web_movie_uri": "k10011009411_201706071644_201706071645.mp4", 
+  "title_with_ruby": "<ruby>沖縄<rt>おきなわ</rt></ruby>　１００<ruby>歳<rt>さい</rt></ruby>のおばあさんが<ruby>育<rt>そだ</rt></ruby>てたあじさいの<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く", 
+  "news_id": "k10011009411000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170607/../20170607/K10011009411_1706071642_1706071652_01_03.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_easy_movie_uri": "''"
+}

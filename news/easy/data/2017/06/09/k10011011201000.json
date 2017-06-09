@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011011201000.mp3", 
+  "title": "食事も卓球も楽しめる店が東京の渋谷にできる", 
+  "news_prearranged_time": "2017-06-09 15:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>に<ruby>８日<rt>ようか</rt></ruby>、<ruby>食事<rt>しょくじ</rt></ruby>と<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>卓球<rt>たっきゅう</rt></ruby></a>を<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>店<rt>みせ</rt></ruby>ができました。", 
+  "news_web_movie_uri": "k10011011201_201706082005_201706082007.mp4", 
+  "title_with_ruby": "<ruby>食事<rt>しょくじ</rt></ruby>も<ruby>卓球<rt>たっきゅう</rt></ruby>も<ruby>楽<rt>たの</rt></ruby>しめる<ruby>店<rt>みせ</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>にできる", 
+  "news_id": "k10011011201000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170608/../20170608/K10011011201_1706082005_1706082007_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

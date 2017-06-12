@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>ること。また、そのお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "収入"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。",
+          "hyouki": [
+            "ランキング"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "１１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの２チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。",
+          "hyouki": [
+            "サッカー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって<ruby><rb>何</rb><rt>なに</rt></ruby>かをすること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "代表"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一部分</rb><rt>いちぶぶん</rt></ruby>で<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>特色</rb><rt>とくしょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、そのもの。",
+          "hyouki": [
+            "代表"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "アメリカ・カナダなどで<ruby><rb>使</rb><rt>つか</rt></ruby>われているお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１ドルは１００セント。",
+          "hyouki": [
+            "ドル"
+          ]
+        },
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "ドル"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "５<ruby><rb>人</rb><rt>にん</rt></ruby>ずつのチームが、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間内</rb><rt>じかんない</rt></ruby>に、<ruby><rb>相手側</rb><rt>あいてがわ</rt></ruby>の、つり<ruby><rb>下</rb><rt>さ</rt></ruby>げた<ruby><rb>網</rb><rt>あみ</rt></ruby>に、ボールを<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>合</rb><rt>あ</rt></ruby>ってきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "バスケットボール"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "９<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの２チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。",
+          "hyouki": [
+            "野球"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、バッターにボールを<ruby><rb>投</rb><rt>な</rt></ruby>げる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>。",
+          "hyouki": [
+            "ピッチャー"
+          ]
+        }
+      ]
+    }
+  }
+}

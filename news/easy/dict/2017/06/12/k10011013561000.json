@@ -1,0 +1,256 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。",
+          "hyouki": [
+            "高速道路"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがを<ruby><rb>治</rb><rt>なお</rt></ruby>すことを<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>とする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>。",
+          "hyouki": [
+            "医師"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "こわれているところを<ruby><rb>直</rb><rt>なお</rt></ruby>すこと。<ruby><rb>修繕</rb><rt>しゅうぜん</rt></ruby>。",
+          "hyouki": [
+            "修理"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>くようにする。<ruby><rb>向</rb><rt>む</rt></ruby>かせる。",
+          "hyouki": [
+            "向ける"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>を<ruby><rb>目</rb><rt>め</rt></ruby>ざす。",
+          "hyouki": [
+            "向ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>行</rb><rt>い</rt></ruby>かせる。",
+          "hyouki": [
+            "向ける"
+          ]
+        },
+        {
+          "def": "ふり<ruby><rb>当</rb><rt>あ</rt></ruby>てる。",
+          "hyouki": [
+            "向ける"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>竹</rb><rt>たけ</rt></ruby>などを<ruby><rb>立</rb><rt>た</rt></ruby>て、<ruby><rb>横木</rb><rt>よこぎ</rt></ruby>を<ruby><rb>打</rb><rt>う</rt></ruby>ちつけて<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>囲</rb><rt>かこ</rt></ruby>い。",
+          "hyouki": [
+            "柵"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "くっついていたものが<ruby><rb>分</rb><rt>わ</rt></ruby>かれる。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>距離</rb><rt>きょり</rt></ruby>がある。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>があく。",
+          "hyouki": [
+            "離れる"
+          ]
+        },
+        {
+          "def": "やめる。",
+          "hyouki": [
+            "離れる"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>交通事故</rb><rt>こうつうじこ</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぎ、<ruby><rb>歩</rb><rt>ある</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るため、<ruby><rb>道路</rb><rt>どうろ</rt></ruby>のはしに<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>付</rb><rt>つ</rt></ruby>けた、<ruby><rb>鉄</rb><rt>てつ</rt></ruby>のさく。",
+          "hyouki": [
+            "ガードレール"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>残</rb><rt>のこ</rt></ruby>ったしるし。",
+          "hyouki": [
+            "跡"
+          ]
+        },
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>何</rb><rt>なに</rt></ruby>かがあった<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "跡"
+          ]
+        },
+        {
+          "def": "ゆくえ。",
+          "hyouki": [
+            "跡"
+          ]
+        },
+        {
+          "def": "<ruby><rb>親</rb><rt>おや</rt></ruby>などが、<ruby><rb>残</rb><rt>のこ</rt></ruby>したもの。",
+          "hyouki": [
+            "跡"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>り<ruby><rb>過</rb><rt>す</rt></ruby>ぎる。",
+          "hyouki": [
+            "越える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>境目</rb><rt>さかいめ</rt></ruby>を<ruby><rb>過</rb><rt>す</rt></ruby>ぎる。",
+          "hyouki": [
+            "越える"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>日時</rb><rt>にちじ</rt></ruby>を<ruby><rb>過</rb><rt>す</rt></ruby>ぎる。",
+          "hyouki": [
+            "越える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>をとびこす。",
+          "hyouki": [
+            "越える"
+          ]
+        }
+      ]
+    }
+  }
+}

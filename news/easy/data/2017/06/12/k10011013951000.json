@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011013951000.mp3", 
+  "title": "山形県東根市でさくらんぼの種を遠くまで飛ばす大会", 
+  "news_prearranged_time": "2017-06-12 16:15:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>１１<ruby>日<rt>にち</rt></ruby>、<ruby>山形県<rt>やまがたけん</rt></ruby><ruby>東根市<rt>ひがしねし</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>さくらんぼ</a>を<ruby>口<rt>くち</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて、<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>種<rt>たね</rt></ruby></a>をどのくらい<ruby>遠<rt>とお</rt></ruby>くに<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>飛<rt>と</rt></ruby>ばす</a>ことができるかを<ruby>競争<rt>きょうそう</rt></ruby>する<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>大会<rt>たいかい</rt></ruby></a>がありました。", 
+  "news_web_movie_uri": "k10011013951_201706111306_201706111308.mp4", 
+  "title_with_ruby": "<ruby>山形県<rt>やまがたけん</rt></ruby><ruby>東根市<rt>ひがしねし</rt></ruby>でさくらんぼの<ruby>種<rt>たね</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くまで<ruby>飛<rt>と</rt></ruby>ばす<ruby>大会<rt>たいかい</rt></ruby>", 
+  "news_id": "k10011013951000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170611/../20170611/K10011013951_1706111233_1706111238_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

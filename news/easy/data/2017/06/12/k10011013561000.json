@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011013561000.mp3", 
+  "title": "高速道路で車が飛んできてバスにぶつかる", 
+  "news_prearranged_time": "2017-06-12 16:15:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>１０日<rt>とおか</rt></ruby><ruby>朝<rt>あさ</rt></ruby>、<ruby>愛知県<rt>あいちけん</rt></ruby><ruby>新城市<rt>しんしろし</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>高速道路<rt>こうそくどうろ</rt></ruby></a>で、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>観光<rt>かんこう</rt></ruby></a>バスに、<ruby>反対<rt>はんたい</rt></ruby><ruby>側<rt>がわ</rt></ruby>の<ruby>道<rt>みち</rt></ruby>を<ruby>走<rt>はし</rt></ruby>っていた<ruby>車<rt>くるま</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んできて<a href='javascript:void(0)' class='dicWin' id='id-0003'>ぶつかり</a>ました。", 
+  "news_web_movie_uri": "k10011013561_201706101911_201706101912.mp4", 
+  "title_with_ruby": "<ruby>高速道路<rt>こうそくどうろ</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んできてバスにぶつかる", 
+  "news_id": "k10011013561000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170610/../20170610/K10011013561_1706101911_1706101913_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

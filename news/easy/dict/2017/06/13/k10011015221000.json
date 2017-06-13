@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>胸</rb><rt>むね</rt></ruby>の<ruby><rb>左</rb><rt>ひだり</rt></ruby>と<ruby><rb>右</rb><rt>みぎ</rt></ruby>にあって、<ruby><rb>息</rb><rt>いき</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>ったり、はいたりするはたらきをするところ。<ruby><rb>肺臓</rb><rt>はいぞう</rt></ruby>。",
+          "hyouki": [
+            "肺"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>手</rb><rt>て</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>元素</rb><rt>げんそ</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>原子力</rb><rt>げんしりょく</rt></ruby>の<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>となる。<ruby><rb>放射能</rb><rt>ほうしゃのう</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>っていて、<ruby><rb>有毒</rb><rt>ゆうどく</rt></ruby>。",
+          "hyouki": [
+            "プルトニウム"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。",
+          "hyouki": [
+            "研究所"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>包</rb><rt>つつ</rt></ruby>んでいる<ruby><rb>皮</rb><rt>かわ</rt></ruby>。<ruby><rb>肌</rb><rt>はだ</rt></ruby>。",
+          "hyouki": [
+            "皮膚"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>水辺</rb><rt>みずべ</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>える<ruby><rb>草花</rb><rt>くさばな</rt></ruby>。<ruby><rb>葉</rb><rt>は</rt></ruby>はアヤメに<ruby><rb>似</rb><rt>に</rt></ruby>て<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い。<ruby><rb>夏</rb><rt>なつ</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>め、むらさきや<ruby><rb>白</rb><rt>しろ</rt></ruby>などの<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く。",
+          "hyouki": [
+            "花しょうぶ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>草</rb><rt>くさ</rt></ruby>の<ruby><rb>根</rb><rt>ね</rt></ruby>もと。",
+          "hyouki": [
+            "株"
+          ]
+        },
+        {
+          "def": "<ruby><rb>株式</rb><rt>かぶしき</rt></ruby>。",
+          "hyouki": [
+            "株"
+          ]
+        },
+        {
+          "def": "<ruby><rb>得意</rb><rt>とくい</rt></ruby>なこと。",
+          "hyouki": [
+            "株"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人気</rb><rt>にんき</rt></ruby>。<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "株"
+          ]
+        },
+        {
+          "def": "<ruby><rb>根</rb><rt>ね</rt></ruby>のついたものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "株"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>と<ruby><rb>青</rb><rt>あお</rt></ruby>の<ruby><rb>混</rb><rt>ま</rt></ruby>じった<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "<ruby><rb>夏</rb><rt>なつ</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>小花</rb><rt>こばな</rt></ruby>をつける<ruby><rb>草</rb><rt>くさ</rt></ruby>。<ruby><rb>根</rb><rt>ね</rt></ruby>からむらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>染料</rb><rt>せんりょう</rt></ruby>をとる。",
+          "hyouki": [
+            "紫"
+          ]
+        },
+        {
+          "def": "「しょうゆ」の<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "紫"
+          ]
+        }
+      ]
+    }
+  }
+}

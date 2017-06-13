@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011015221000.mp3", 
+  "title": "「５人の肺からプルトニウムは見つからなかった」", 
+  "news_prearranged_time": "2017-06-13 16:10:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>茨城県<rt>いばらきけん</rt></ruby>にある<ruby>日本原子力研究開発機構<rt>にほんげんしりょくけんきゅうかいはつきこう</rt></ruby>の<ruby>大洗研究開発<rt>おおあらいけんきゅうかいはつ</rt></ruby>センターで<ruby>６日<rt>むいか</rt></ruby>、<ruby>仕事<rt>しごと</rt></ruby>をしていた５<ruby>人<rt>にん</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0001'>プルトニウム</a>などの<ruby>放射性物質<rt>ほうしゃせいぶっしつ</rt></ruby>がかかる<ruby>事故<rt>じこ</rt></ruby>がありました。", 
+  "news_web_movie_uri": "k10011015221_201706122054_201706122055.mp4", 
+  "title_with_ruby": "「５<ruby>人<rt>にん</rt></ruby>の<ruby>肺<rt>はい</rt></ruby>からプルトニウムは<ruby>見<rt>み</rt></ruby>つからなかった」", 
+  "news_id": "k10011015221000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170612/../20170612/K10011015221_1706122054_1706122055_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

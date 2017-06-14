@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011016861000.mp3", 
+  "title": "ドイツの国籍を取るイギリス人が増える", 
+  "news_prearranged_time": "2017-06-14 16:05:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>去年<rt>きょねん</rt></ruby>、２８６５<ruby>人<rt>にん</rt></ruby>のイギリス<ruby>人<rt>じん</rt></ruby>がドイツの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>国籍<rt>こくせき</rt></ruby></a>を<ruby>取<rt>と</rt></ruby>りました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "ドイツの<ruby>国籍<rt>こくせき</rt></ruby>を<ruby>取<rt>と</rt></ruby>るイギリス<ruby>人<rt>じん</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える", 
+  "news_id": "k10011016861000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170614/../20170614/K10011016861_1706140630_1706140631_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

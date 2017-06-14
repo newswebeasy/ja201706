@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011016571000.mp3", 
+  "title": "自衛隊が将来使う戦闘機「Ｆ３５」のテストを行う", 
+  "news_prearranged_time": "2017-06-14 16:05:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>「Ｆ３５」という<ruby>戦闘機<rt>せんとうき</rt></ruby>は、アメリカなど９つの<ruby>国<rt>くに</rt></ruby>が<ruby>一緒<rt>いっしょ</rt></ruby>につくりました。", 
+  "news_web_movie_uri": "k10011016571_201706132022_201706132022.mp4", 
+  "title_with_ruby": "<ruby>自衛隊<rt>じえいたい</rt></ruby>が<ruby>将来<rt>しょうらい</rt></ruby><ruby>使<rt>つか</rt></ruby>う<ruby>戦闘機<rt>せんとうき</rt></ruby>「Ｆ３５」のテストを<ruby>行<rt>おこな</rt></ruby>う", 
+  "news_id": "k10011016571000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170613/../20170613/K10011016571_1706132022_1706132024_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

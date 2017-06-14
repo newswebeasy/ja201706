@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011015201000.mp3", 
+  "title": "宇宙で傘のように広げるアンテナを千葉大学がつくる", 
+  "news_prearranged_time": "2017-06-14 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>千葉<rt>ちば</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0003'>グループ</a>は、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>宇宙<rt>うちゅう</rt></ruby></a>で<ruby>傘<rt>かさ</rt></ruby>のように<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>広<rt>ひろ</rt></ruby>げる</a><ruby>小<rt>ちい</rt></ruby>さい<a href='javascript:void(0)' class='dicWin' id='id-0002'>アンテナ</a>をつくりました。", 
+  "news_web_movie_uri": "k10011015201_201706122131_201706122208.mp4", 
+  "title_with_ruby": "<ruby>宇宙<rt>うちゅう</rt></ruby>で<ruby>傘<rt>かさ</rt></ruby>のように<ruby>広<rt>ひろ</rt></ruby>げるアンテナを<ruby>千葉<rt>ちば</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>がつくる", 
+  "news_id": "k10011015201000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170612/../20170612/K10011015201_1706122131_1706122209_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

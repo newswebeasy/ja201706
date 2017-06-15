@@ -1,0 +1,56 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>で、<ruby><rb>歌</rb><rt>うた</rt></ruby>やおどりや<ruby><rb>劇</rb><rt>げき</rt></ruby>などをすること。",
+          "hyouki": [
+            "公演"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>作品</rb><rt>さくひん</rt></ruby>にかかれていることの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。また、<ruby><rb>作品</rb><rt>さくひん</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になっている<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>主題</rb><rt>しゅだい</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>論文</rb><rt>ろんぶん</rt></ruby>や、<ruby><rb>演説</rb><rt>えんぜつ</rt></ruby>の<ruby><rb>題目</rb><rt>だいもく</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>曲</rb><rt>きょく</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となっているメロディー。",
+          "hyouki": [
+            "テーマ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるりっぱな<ruby><rb>芸</rb><rt>げい</rt></ruby>や、わざを<ruby><rb>持</rb><rt>も</rt></ruby>っていて、<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>国宝</rb><rt>こくほう</rt></ruby>として<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>で<ruby><rb>認</rb><rt>みと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "人間国宝"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "動き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>移</rb><rt>うつ</rt></ruby>り<ruby><rb>変</rb><rt>か</rt></ruby>わり。<ruby><rb>変動</rb><rt>へんどう</rt></ruby>。<ruby><rb>変化</rb><rt>へんか</rt></ruby>。",
+          "hyouki": [
+            "動き"
+          ]
+        }
+      ]
+    }
+  }
+}

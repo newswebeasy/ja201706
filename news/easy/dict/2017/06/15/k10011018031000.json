@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>住</rb><rt>す</rt></ruby>むための<ruby><rb>家</rb><rt>いえ</rt></ruby>。すまい。<ruby><rb>住居</rb><rt>じゅうきょ</rt></ruby>。",
+          "hyouki": [
+            "住宅"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>岩石</rb><rt>がんせき</rt></ruby>を<ruby><rb>綿</rb><rt>わた</rt></ruby>のように<ruby><rb>加工</rb><rt>かこう</rt></ruby>したもの。<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>しにくく<ruby><rb>熱</rb><rt>ねつ</rt></ruby>に<ruby><rb>強</rb><rt>つよ</rt></ruby>いが、<ruby><rb>吸</rb><rt>す</rt></ruby>いこむと<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>がある。<ruby><rb>石綿</rb><rt>いしわた</rt></ruby>。",
+          "hyouki": [
+            "アスベスト"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>悪性</rb><rt>あくせい</rt></ruby>のはれものができる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にできたがん<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>がどんどん<ruby><rb>増</rb><rt>ふ</rt></ruby>えて<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>害</rb><rt>がい</rt></ruby>をあたえる。",
+          "hyouki": [
+            "がん"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

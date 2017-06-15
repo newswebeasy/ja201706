@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011016291000.mp3", 
+  "title": "食品の工場やレストランで使う新しい機械を紹介", 
+  "news_prearranged_time": "2017-06-15 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>食品<rt>しょくひん</rt></ruby></a>の<ruby>工場<rt>こうじょう</rt></ruby>やレストランなどで<ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<a href='javascript:void(0)' class='dicWin' id='id-0001'>イベント</a>が、１３<ruby>日<rt>にち</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>始<rt>はじ</rt></ruby>まりました。", 
+  "news_web_movie_uri": "k10011016291_201706131642_201706131643.mp4", 
+  "title_with_ruby": "<ruby>食品<rt>しょくひん</rt></ruby>の<ruby>工場<rt>こうじょう</rt></ruby>やレストランで<ruby>使<rt>つか</rt></ruby>う<ruby>新<rt>あたら</rt></ruby>しい<ruby>機械<rt>きかい</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>", 
+  "news_id": "k10011016291000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170613/../20170613/K10011016291_1706131720_1706131735_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

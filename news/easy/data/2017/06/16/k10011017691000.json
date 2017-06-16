@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011017691000.mp3", 
+  "title": "強い毒を持っているアリが日本で初めて見つかる", 
+  "news_prearranged_time": "2017-06-16 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>「ヒアリ」という<a href='javascript:void(0)' class='dicWin' id='id-0001'>アリ</a>は<ruby>強<rt>つよ</rt></ruby>い<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>毒<rt>どく</rt></ruby></a>を<ruby>持<rt>も</rt></ruby>っていて、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>刺<rt>さ</rt></ruby>さ</a>れると<a href='javascript:void(0)' class='dicWin' id='id-0003'>やけど</a>をしたように<ruby>痛<rt>いた</rt></ruby>くなります。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>強<rt>つよ</rt></ruby>い<ruby>毒<rt>どく</rt></ruby>を<ruby>持<rt>も</rt></ruby>っているアリが<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>見<rt>み</rt></ruby>つかる", 
+  "news_id": "k10011017691000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170614/../20170614/K10011017691_1706141840_1706141852_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

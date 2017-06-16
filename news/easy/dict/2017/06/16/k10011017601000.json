@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>。<ruby><rb>水</rb><rt>みず</rt></ruby>にとけている<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>。",
+          "hyouki": [
+            "水質"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>手</rb><rt>て</rt></ruby>によって、<ruby><rb>精子</rb><rt>せいし</rt></ruby>と<ruby><rb>卵子</rb><rt>らんし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>びつけること。",
+          "hyouki": [
+            "人工授精"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "移す"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>進</rb><rt>すす</rt></ruby>める。",
+          "hyouki": [
+            "移す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感染</rb><rt>かんせん</rt></ruby>させる。",
+          "hyouki": [
+            "移す"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>貝</rb><rt>かい</rt></ruby>などをとることを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>漁夫</rb><rt>ぎょふ</rt></ruby>。",
+          "hyouki": [
+            "漁師"
+          ]
+        }
+      ]
+    }
+  }
+}

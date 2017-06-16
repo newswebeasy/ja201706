@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>で<ruby><rb>決</rb><rt>き</rt></ruby>め、<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>約束</rb><rt>やくそく</rt></ruby>。",
+          "hyouki": [
+            "条約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。",
+          "hyouki": [
+            "話し合い"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>貧困</rb><rt>ひんこん</rt></ruby>・<ruby><rb>飢餓</rb><rt>きが</rt></ruby>・<ruby><rb>難民</rb><rt>なんみん</rt></ruby>・<ruby><rb>環境</rb><rt>かんきょう</rt></ruby>などの<ruby><rb>問題</rb><rt>もんだい</rt></ruby>に<ruby><rb>国境</rb><rt>こっきょう</rt></ruby>をこえて<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>組</rb><rt>く</rt></ruby>む、<ruby><rb>民間</rb><rt>みんかん</rt></ruby>の<ruby><rb>援助団体</rb><rt>えんじょだんたい</rt></ruby>のこと。",
+          "hyouki": [
+            "NGO"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うやり<ruby><rb>方</rb><rt>かた</rt></ruby>。しかた。",
+          "hyouki": [
+            "方法"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>やこよりをしんにして、その<ruby><rb>周</rb><rt>まわ</rt></ruby>りをろうで<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。しんに<ruby><rb>火</rb><rt>ひ</rt></ruby>をつけて<ruby><rb>明</rb><rt>あ</rt></ruby>かりにする。",
+          "hyouki": [
+            "ろうそく"
+          ]
+        }
+      ]
+    }
+  }
+}

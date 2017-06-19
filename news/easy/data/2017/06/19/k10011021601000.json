@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011021601000.mp3", 
+  "title": "フランスで日本のアニメの映画が「クリスタル賞」をもらう", 
+  "news_prearranged_time": "2017-06-19 16:15:37", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>フランスのアヌシーという<ruby>町<rt>まち</rt></ruby>で、<ruby>世界<rt>せかい</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'>アニメ</a><ruby>映画<rt>えいが</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>イベント</a>「アヌシー<ruby>国際<rt>こくさい</rt></ruby>アニメ<ruby>映画<rt>えいが</rt></ruby><ruby>祭<rt>さい</rt></ruby>」がありました。", 
+  "news_web_movie_uri": "k10011021601_201706180728_201706180737.mp4", 
+  "title_with_ruby": "フランスで<ruby>日本<rt>にっぽん</rt></ruby>のアニメの<ruby>映画<rt>えいが</rt></ruby>が「クリスタル<ruby>賞<rt>しょう</rt></ruby>」をもらう", 
+  "news_id": "k10011021601000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170618/../20170618/K10011021601_1706180728_1706180737_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

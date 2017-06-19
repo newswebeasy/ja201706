@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011022371000.mp3", 
+  "title": "アメリカ軍の船が大きな船とぶつかって７人が亡くなる", 
+  "news_prearranged_time": "2017-06-19 16:15:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>１７<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>１<ruby>時<rt>じ</rt></ruby><ruby>半<rt>はん</rt></ruby>ごろ、<ruby>静岡県<rt>しずおかけん</rt></ruby>の<ruby>伊豆半島<rt>いずはんとう</rt></ruby>から２０kmの<ruby>海<rt>うみ</rt></ruby>で、アメリカ<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>軍<rt>ぐん</rt></ruby></a>の<ruby>横須賀基地<rt>よこすかきち</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>と、<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>んでいたフィリピンの<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0002'>ぶつかり</a>ました。", 
+  "news_web_movie_uri": "k10011022371_201706191212_201706191213.mp4", 
+  "title_with_ruby": "アメリカ<ruby>軍<rt>ぐん</rt></ruby>の<ruby>船<rt>ふね</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>とぶつかって７<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる", 
+  "news_id": "k10011022371000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170619/../20170619/K10011022371_1706190906_1706191213_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011021111000.mp3", 
+  "title": "ＪＲ西日本　ホテルのような新しい寝台列車が走り始める", 
+  "news_prearranged_time": "2017-06-20 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>ＪＲ<ruby>西日本<rt>にしにほん</rt></ruby>は「トワイライトエクスプレス<ruby>瑞風<rt>みずかぜ</rt></ruby>」という<ruby>新<rt>あたら</rt></ruby>しい<ruby>寝台列車<rt>しんだいれっしゃ</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。", 
+  "news_web_movie_uri": "k10011021111_201706171214_201706171216.mp4", 
+  "title_with_ruby": "ＪＲ<ruby>西日本<rt>にしにほん</rt></ruby>　ホテルのような<ruby>新<rt>あたら</rt></ruby>しい<ruby>寝台列車<rt>しんだいれっしゃ</rt></ruby>が<ruby>走<rt>はし</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>める", 
+  "news_id": "k10011021111000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170617/../20170617/K10011021111_1706171214_1706171222_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

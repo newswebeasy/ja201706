@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011023321000.mp3", 
+  "title": "東京都　高層マンションの８０％が火事を防ぐ法律に違反", 
+  "news_prearranged_time": "2017-06-21 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>イギリスのロンドンで<ruby>１４日<rt>じゅうよっか</rt></ruby>、２４<ruby>階<rt>かい</rt></ruby><ruby>建<rt>だ</rt></ruby>ての<a href='javascript:void(0)' class='dicWin' id='id-0002'>マンション</a>が<ruby>火事<rt>かじ</rt></ruby>になって、<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなりました。", 
+  "news_web_movie_uri": "k10011023321_201706200539_201706200539.mp4", 
+  "title_with_ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>高層<rt>こうそう</rt></ruby>マンションの８０％が<ruby>火事<rt>かじ</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐ<ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>違反<rt>いはん</rt></ruby>", 
+  "news_id": "k10011023321000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170620/../20170620/K10011023321_1706200539_1706200540_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

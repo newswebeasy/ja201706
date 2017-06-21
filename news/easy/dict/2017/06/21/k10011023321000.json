@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>攻</rb><rt>せ</rt></ruby>めて<ruby><rb>来</rb><rt>こ</rt></ruby>られないように<ruby><rb>守</rb><rt>まも</rt></ruby>る。",
+          "hyouki": [
+            "防ぐ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さ・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などをさえぎる。",
+          "hyouki": [
+            "防ぐ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>・<ruby><rb>火事</rb><rt>かじ</rt></ruby>などのよくないことを、くい<ruby><rb>止</rb><rt>と</rt></ruby>める。<ruby><rb>起</rb><rt>お</rt></ruby>こさないようにする。",
+          "hyouki": [
+            "防ぐ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "コンクリートで<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>で、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>感</rb><rt>かん</rt></ruby>じがするアパート。",
+          "hyouki": [
+            "マンション"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>教</rb><rt>おし</rt></ruby>えて、<ruby><rb>慣</rb><rt>な</rt></ruby>れさせること。また、うまくできるように<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>すること。",
+          "hyouki": [
+            "訓練"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>薬品</rb><rt>やくひん</rt></ruby>のはたらきで、<ruby><rb>火</rb><rt>ひ</rt></ruby>を<ruby><rb>消</rb><rt>け</rt></ruby>し<ruby><rb>止</rb><rt>と</rt></ruby>める<ruby><rb>器具</rb><rt>きぐ</rt></ruby>。",
+          "hyouki": [
+            "消火器"
+          ]
+        }
+      ]
+    }
+  }
+}

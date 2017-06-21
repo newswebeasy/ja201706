@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "物質"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>長</rb><rt>なが</rt></ruby>くもたせるために、<ruby><rb>凍</rb><rt>こお</rt></ruby>らせること。",
+          "hyouki": [
+            "冷凍"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時</rb><rt>とき</rt></ruby>にせり<ruby><rb>売</rb><rt>う</rt></ruby>りする<ruby><rb>所</rb><rt>ところ</rt></ruby>。いちば。",
+          "hyouki": [
+            "市場"
+          ]
+        },
+        {
+          "def": "ものを<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>買</rb><rt>か</rt></ruby>いする<ruby><rb>範囲</rb><rt>はんい</rt></ruby>。マーケット。",
+          "hyouki": [
+            "市場"
+          ]
+        },
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>り<ruby><rb>手</rb><rt>て</rt></ruby>と<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>で<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>引</rb><rt>ひ</rt></ruby>きを<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "市場"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011023901000.mp3", 
+  "title": "東京都の小池知事「豊洲市場を安全にして引っ越す」", 
+  "news_prearranged_time": "2017-06-21 16:00:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>築地<rt>つきじ</rt></ruby><ruby>市場<rt>しじょう</rt></ruby>は<ruby>建物<rt>たてもの</rt></ruby>などが<ruby>古<rt>ふる</rt></ruby>くなったため、<ruby>去年<rt>きょねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>豊洲<rt>とよす</rt></ruby><ruby>市場<rt>しじょう</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>す<ruby>予定<rt>よてい</rt></ruby>でした。", 
+  "news_web_movie_uri": "k10011023901_201706201911_201706201912.mp4", 
+  "title_with_ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>小池<rt>こいけ</rt></ruby><ruby>知事<rt>ちじ</rt></ruby>「<ruby>豊洲<rt>とよす</rt></ruby><ruby>市場<rt>しじょう</rt></ruby>を<ruby>安全<rt>あんぜん</rt></ruby>にして<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>す」", 
+  "news_id": "k10011023901000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170620/../20170620/K10011023901_1706201731_1706201732_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>西洋</rb><rt>せいよう</rt></ruby>のおどり。<ruby><rb>歌</rb><rt>うた</rt></ruby>やことばを<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>身</rb><rt>み</rt></ruby>ぶりや、おどりだけで<ruby><rb>物語</rb><rt>ものがたり</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "バレエ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>などのよしあしを）<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>する<ruby><rb>会</rb><rt>かい</rt></ruby>。<ruby><rb>競技会</rb><rt>きょうぎかい</rt></ruby>。",
+          "hyouki": [
+            "コンクール"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>年上</rb><rt>としうえ</rt></ruby>。<ruby><rb>上級生</rb><rt>じょうきゅうせい</rt></ruby>。",
+          "hyouki": [
+            "シニア"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団"
+          ]
+        },
+        {
+          "def": "かたまり。",
+          "hyouki": [
+            "団"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ほんとうだと<ruby><rb>心</rb><rt>こころ</rt></ruby>から<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "信じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>や、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信仰</rb><rt>しんこう</rt></ruby>する。",
+          "hyouki": [
+            "信じる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>の<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ジュニア"
+          ]
+        },
+        {
+          "def": "<ruby><rb>年下</rb><rt>としした</rt></ruby>。<ruby><rb>下級生</rb><rt>かきゅうせい</rt></ruby>。",
+          "hyouki": [
+            "ジュニア"
+          ]
+        },
+        {
+          "def": "<ruby><rb>二世</rb><rt>にせい</rt></ruby>。<ruby><rb>後継者</rb><rt>こうけいしゃ</rt></ruby>。",
+          "hyouki": [
+            "ジュニア"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>西洋風</rb><rt>せいようふう</rt></ruby>のおどりをおどることを、<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ダンサー"
+          ]
+        }
+      ]
+    }
+  }
+}

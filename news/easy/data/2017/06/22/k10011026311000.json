@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011026311000.mp3", 
+  "title": "将棋の藤井さんが２８回続けて勝つ　今までで最も多い記録", 
+  "news_prearranged_time": "2017-06-22 16:25:00", 
+  "news_easy_image_uri": "k10011026311000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>藤井<rt>ふじい</rt></ruby><ruby>聡太<rt>そうた</rt></ruby>さんは<ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>、１４<ruby>歳<rt>さい</rt></ruby>と２か<ruby>月<rt>げつ</rt></ruby>のときに<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>若<rt>わか</rt></ruby>い<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>将棋<rt>しょうぎ</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'>プロ</a>になりました。", 
+  "news_web_movie_uri": "k10011026311_201706220513_201706220516.mp4", 
+  "title_with_ruby": "<ruby>将棋<rt>しょうぎ</rt></ruby>の<ruby>藤井<rt>ふじい</rt></ruby>さんが２８<ruby>回<rt>かい</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて<ruby>勝<rt>か</rt></ruby>つ　<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い<ruby>記録<rt>きろく</rt></ruby>", 
+  "news_id": "k10011026311000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

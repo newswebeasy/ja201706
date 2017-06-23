@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "噴火"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>で、<ruby><rb>都心</rb><rt>としん</rt></ruby>から<ruby><rb>南</rb><rt>みなみ</rt></ruby>へ<ruby><rb>約</rb><rt>やく</rt></ruby>１２００キロメートルの<ruby><rb>太平洋</rb><rt>たいへいよう</rt></ruby>にある<ruby><rb>島々</rb><rt>しまじま</rt></ruby>。おもな<ruby><rb>島</rb><rt>しま</rt></ruby>は<ruby><rb>父島</rb><rt>ちちじま</rt></ruby>と<ruby><rb>母島</rb><rt>ははじま</rt></ruby>である。",
+          "hyouki": [
+            "小笠原諸島"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国土</rb><rt>こくど</rt></ruby>の<ruby><rb>測量</rb><rt>そくりょう</rt></ruby>をし、<ruby><rb>地図</rb><rt>ちず</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "国土地理院"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>平面</rb><rt>へいめん</rt></ruby>や<ruby><rb>曲面</rb><rt>きょくめん</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。",
+          "hyouki": [
+            "面積"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ]
+    }
+  }
+}

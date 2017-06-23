@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011026361000.mp3", 
+  "title": "噴火で９倍に大きくなった西之島の新しい地図ができる", 
+  "news_prearranged_time": "2017-06-23 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>小笠原諸島<rt>おがさわらしょとう</rt></ruby></a>の<ruby>父島<rt>ちちじま</rt></ruby>から<ruby>西<rt>にし</rt></ruby>に１３０ｋｍの<ruby>所<rt>ところ</rt></ruby>にある<ruby>西之島<rt>にしのしま</rt></ruby>は、２０１３<ruby>年<rt>ねん</rt></ruby>１１<ruby>月<rt>がつ</rt></ruby>から<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>噴火<rt>ふんか</rt></ruby></a>が<ruby>続<rt>つづ</rt></ruby>いています。", 
+  "news_web_movie_uri": "k10011026361_201706220445_201706220449.mp4", 
+  "title_with_ruby": "<ruby>噴火<rt>ふんか</rt></ruby>で９<ruby>倍<rt>ばい</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きくなった<ruby>西之島<rt>にしのしま</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>地図<rt>ちず</rt></ruby>ができる", 
+  "news_id": "k10011026361000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170622/../20170622/K10011026361_1706220445_1706220450_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

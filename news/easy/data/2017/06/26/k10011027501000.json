@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011027501000.mp3", 
+  "title": "国連　「２１００年の世界の人口は１１２億人」", 
+  "news_prearranged_time": "2017-06-26 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>国連<rt>こくれん</rt></ruby></a>は、２１００<ruby>年<rt>ねん</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は１１２<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>になるだろうと<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>国連<rt>こくれん</rt></ruby>　「２１００<ruby>年<rt>ねん</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>は１１２<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>」", 
+  "news_id": "k10011027501000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170623/../20170623/K10011027501_1706230659_1706230910_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

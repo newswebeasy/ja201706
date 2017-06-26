@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "カエルの<ruby><rb>子</rb><rt>こ</rt></ruby>。<ruby><rb>水中</rb><rt>すいちゅう</rt></ruby>にすみ、えらで<ruby><rb>呼吸</rb><rt>こきゅう</rt></ruby>する。<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>尾</rb><rt>お</rt></ruby>がついている。",
+          "hyouki": [
+            "おたまじゃくし"
+          ]
+        },
+        {
+          "def": "しるをすくうしゃくし。おたま。",
+          "hyouki": [
+            "おたまじゃくし"
+          ]
+        },
+        {
+          "def": "<ruby><rb>音符</rb><rt>おんぷ</rt></ruby>。「♩」など。",
+          "hyouki": [
+            "おたまじゃくし"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>陸</rb><rt>りく</rt></ruby>にも<ruby><rb>水</rb><rt>みず</rt></ruby>にもすめる<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>卵</rb><rt>たまご</rt></ruby>からオタマジャクシになり、<ruby><rb>手足</rb><rt>てあし</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>てしっぽが<ruby><rb>消</rb><rt>き</rt></ruby>えるとカエルになる。",
+          "hyouki": [
+            "蛙"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>って、イネを<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>水田</rb><rt>すいでん</rt></ruby>。",
+          "hyouki": [
+            "田んぼ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "すけて、<ruby><rb>中</rb><rt>なか</rt></ruby>のほうや、<ruby><rb>向</rb><rt>む</rt></ruby>こうのほうが<ruby><rb>見</rb><rt>み</rt></ruby>える。",
+          "hyouki": [
+            "透き通る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>声</rb><rt>こえ</rt></ruby>などがすんで、よく<ruby><rb>通</rb><rt>とお</rt></ruby>る。",
+          "hyouki": [
+            "透き通る"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てたり、とらえたりするための<ruby><rb>食物</rb><rt>しょくもつ</rt></ruby>。え。",
+          "hyouki": [
+            "餌"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>をさそいこむためにあたえるもの。",
+          "hyouki": [
+            "餌"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "育つ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。",
+          "hyouki": [
+            "育つ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>が、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "育つ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一人前</rb><rt>いちにんまえ</rt></ruby>になる。",
+          "hyouki": [
+            "育つ"
+          ]
+        }
+      ]
+    }
+  }
+}

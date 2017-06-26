@@ -1,0 +1,122 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。",
+          "hyouki": [
+            "兆"
+          ]
+        },
+        {
+          "def": "しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。",
+          "hyouki": [
+            "兆"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>借</rb><rt>か</rt></ruby>りること。また、<ruby><rb>借</rb><rt>か</rt></ruby>りたお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "借金"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>料金</rb><rt>りょうきん</rt></ruby>のいらないこと。ただ。",
+          "hyouki": [
+            "無料"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "こわれているところを<ruby><rb>直</rb><rt>なお</rt></ruby>すこと。<ruby><rb>修繕</rb><rt>しゅうぜん</rt></ruby>。",
+          "hyouki": [
+            "修理"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>裁判</rb><rt>さいばん</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>最高</rb><rt>さいこう</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>高等</rb><rt>こうとう</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>地方裁判所</rb><rt>ちほうさいばんしょ</rt></ruby>・<ruby><rb>家庭</rb><rt>かてい</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>・<ruby><rb>簡易</rb><rt>かんい</rt></ruby><ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>がある。",
+          "hyouki": [
+            "裁判所"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>批評</rb><rt>ひひょう</rt></ruby>。",
+          "hyouki": [
+            "評判"
+          ]
+        },
+        {
+          "def": "うわさ。",
+          "hyouki": [
+            "評判"
+          ]
+        },
+        {
+          "def": "<ruby><rb>名高</rb><rt>なだか</rt></ruby>いこと。",
+          "hyouki": [
+            "評判"
+          ]
+        }
+      ]
+    }
+  }
+}

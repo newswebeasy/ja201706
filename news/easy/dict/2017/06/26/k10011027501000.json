@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>第２次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "エイズウイルス（<ruby><rb>HIV</rb><rt>エイチアイブイ</rt></ruby>）によって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>感染</rb><rt>かんせん</rt></ruby>すると、<ruby><rb>病原菌</rb><rt>びょうげんきん</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>する<ruby><rb>体内</rb><rt>たいない</rt></ruby>の<ruby><rb>免疫</rb><rt>めんえき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>がこわされてしまう。",
+          "hyouki": [
+            "AIDS"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "産む"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。",
+          "hyouki": [
+            "割合"
+          ]
+        },
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。",
+          "hyouki": [
+            "割合"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>一生懸命</rb><rt>いっしょうけんめい</rt></ruby>にすること。",
+          "hyouki": [
+            "努力"
+          ]
+        }
+      ]
+    }
+  }
+}

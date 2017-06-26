@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011029931000.mp3", 
+  "title": "陸上競技の１００ｍと２００ｍでサニブラウン選手が優勝", 
+  "news_prearranged_time": "2017-06-26 16:30:00", 
+  "news_easy_image_uri": "k10011029931000.jpg", 
+  "has_news_easy_image": true, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>大阪<rt>おおさか</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>大会<rt>たいかい</rt></ruby></a>「<ruby>日本選手権<rt>にほんせんしゅけん</rt></ruby>」がありました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby>の１００ｍと２００ｍでサニブラウン<ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>優勝<rt>ゆうしょう</rt></ruby>", 
+  "news_id": "k10011029931000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": false, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "", 
+  "news_easy_movie_uri": "''"
+}

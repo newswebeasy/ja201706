@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011031501000.mp3", 
+  "title": "シリアの女の子がインターネットで戦争のことを伝える", 
+  "news_prearranged_time": "2017-06-27 15:50:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>アメリカの<ruby>雑誌<rt>ざっし</rt></ruby>の「タイム」は<ruby>毎年<rt>まいとし</rt></ruby>、「インターネットで<ruby>大<rt>おお</rt></ruby>きな<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>影響<rt>えいきょう</rt></ruby></a>がある<ruby>人<rt>ひと</rt></ruby>」を<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>選<rt>えら</rt></ruby>んでいます。", 
+  "news_web_movie_uri": "k10011031501_201706270903_201706270905.mp4", 
+  "title_with_ruby": "シリアの<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>がインターネットで<ruby>戦争<rt>せんそう</rt></ruby>のことを<ruby>伝<rt>つた</rt></ruby>える", 
+  "news_id": "k10011031501000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170627/../20170627/K10011031501_1706270903_1706270905_01_03.jpg?utm_int=news_contents_news-main_001", 
+  "news_easy_movie_uri": "''"
+}

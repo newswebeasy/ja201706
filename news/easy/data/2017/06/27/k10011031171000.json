@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011031171000.mp3", 
+  "title": "将棋の藤井さん　いちばん多く続けて勝った記録をつくる", 
+  "news_prearranged_time": "2017-06-27 15:50:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>将棋<rt>しょうぎ</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'>プロ</a>で１４<ruby>歳<rt>さい</rt></ruby>の<ruby>藤井<rt>ふじい</rt></ruby><ruby>聡太<rt>そうた</rt></ruby>さんは２６<ruby>日<rt>にち</rt></ruby>、１９<ruby>歳<rt>さい</rt></ruby>の<ruby>増田<rt>ますだ</rt></ruby><ruby>康宏<rt>やすひろ</rt></ruby>さんと<ruby>試合<rt>しあい</rt></ruby>をしました。", 
+  "news_web_movie_uri": "k10011031171_201706262330_201706262331.mp4", 
+  "title_with_ruby": "<ruby>将棋<rt>しょうぎ</rt></ruby>の<ruby>藤井<rt>ふじい</rt></ruby>さん　いちばん<ruby>多<rt>おお</rt></ruby>く<ruby>続<rt>つづ</rt></ruby>けて<ruby>勝<rt>か</rt></ruby>った<ruby>記録<rt>きろく</rt></ruby>をつくる", 
+  "news_id": "k10011031171000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170626/../20170626/K10011031171_1706262223_1706262225_01_03.jpg?utm_int=word_contents_list-items_009&word_result=%E8%97%A4%E4%BA%95%E5%9B%9B%E6%AE%B5", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011032041000.mp3", 
+  "title": "東京オリンピックの記念のナンバープレート　５つの案を発表", 
+  "news_prearranged_time": "2017-06-28 17:20:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0000'>オリンピック</a>と<a href='javascript:void(0)' class='dicWin' id='id-0005'>パラリンピック</a>があります。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックの<ruby>記念<rt>きねん</rt></ruby>のナンバープレート　５つの<ruby>案<rt>あん</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>", 
+  "news_id": "k10011032041000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170627/../20170627/K10011032041_1706271550_1706271605_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

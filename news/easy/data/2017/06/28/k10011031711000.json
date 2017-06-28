@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011031711000.mp3", 
+  "title": "「介護する人も介護してもらう人も７５歳以上」が３０％", 
+  "news_prearranged_time": "2017-06-28 17:20:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></a>は<ruby>去年<rt>きょねん</rt></ruby>６<ruby>月<rt>がつ</rt></ruby>、<ruby>病気<rt>びょうき</rt></ruby>などのお<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>年寄<rt>としよ</rt></ruby>り</a>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>介護<rt>かいご</rt></ruby></a>について<ruby>調<rt>しら</rt></ruby>べました。", 
+  "news_web_movie_uri": "k10011031711_201706271930_201706271931.mp4", 
+  "title_with_ruby": "「<ruby>介護<rt>かいご</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>も<ruby>介護<rt>かいご</rt></ruby>してもらう<ruby>人<rt>ひと</rt></ruby>も７５<ruby>歳<rt>さい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>」が３０％", 
+  "news_id": "k10011031711000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170627/../20170627/K10011031711_1706271218_1706271220_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

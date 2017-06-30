@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011034481000.mp3", 
+  "title": "卓球の福原愛選手「秋に赤ちゃんが生まれます」", 
+  "news_prearranged_time": "2017-06-30 16:20:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>卓球<rt>たっきゅう</rt></ruby></a>の<ruby>福原<rt>ふくはら</rt></ruby><ruby>愛<rt>あい</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>選手<rt>せんしゅ</rt></ruby></a>は２９<ruby>日<rt>にち</rt></ruby>、「<ruby>秋<rt>あき</rt></ruby>に<ruby>私<rt>わたし</rt></ruby>たちの<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれます。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>卓球<rt>たっきゅう</rt></ruby>の<ruby>福原<rt>ふくはら</rt></ruby><ruby>愛<rt>あい</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>「<ruby>秋<rt>あき</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれます」", 
+  "news_id": "k10011034481000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170629/../20170629/K10011034481_1706291643_1706291644_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011033011000.mp3", 
+  "title": "香川県　四角い形のすいかができる", 
+  "news_prearranged_time": "2017-06-30 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>香川県<rt>かがわけん</rt></ruby><ruby>善通寺<rt>ぜんつうじ</rt></ruby><ruby>市<rt>し</rt></ruby>では、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>四角<rt>しかく</rt></ruby>い</a><ruby>形<rt>かたち</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'>すいか</a>を<ruby>作<rt>つく</rt></ruby>っています。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>香川県<rt>かがわけん</rt></ruby>　<ruby>四角<rt>しかく</rt></ruby>い<ruby>形<rt>かたち</rt></ruby>のすいかができる", 
+  "news_id": "k10011033011000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170628/../20170628/K10011033011_1706281308_1706281312_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

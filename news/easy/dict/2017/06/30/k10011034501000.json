@@ -1,0 +1,72 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ほかのコンピューターから<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のパソコンなどに、<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なデータを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れること。",
+          "hyouki": [
+            "ダウンロード"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>あきの<ruby><rb>腰</rb><rt>こし</rt></ruby>ぐらいまでの<ruby><rb>長</rb><rt>なが</rt></ruby>さのある<ruby><rb>上着</rb><rt>うわぎ</rt></ruby>。",
+          "hyouki": [
+            "ジャケット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>CD</rb><rt>シーディー</rt></ruby>やレコードなどを<ruby><rb>入</rb><rt>い</rt></ruby>れるもの。",
+          "hyouki": [
+            "ジャケット"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>売</rb><rt>う</rt></ruby>ったり<ruby><rb>買</rb><rt>か</rt></ruby>ったりするための<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "商品"
+          ]
+        }
+      ]
+    }
+  }
+}

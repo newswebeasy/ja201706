@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011032841000.mp3", 
+  "title": "フェイスブックを使っている人が２０億人になった", 
+  "news_prearranged_time": "2017-06-30 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>フェイスブックは、ハーバード<ruby>大学<rt>だいがく</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>だったマーク・ザッカーバーグさんが２００４<ruby>年<rt>ねん</rt></ruby>に<ruby>作<rt>つく</rt></ruby>りました。", 
+  "news_web_movie_uri": "k10011032841_201706281211_201706281214.mp4", 
+  "title_with_ruby": "フェイスブックを<ruby>使<rt>つか</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>が２０<ruby>億<rt>おく</rt></ruby><ruby>人<rt>にん</rt></ruby>になった", 
+  "news_id": "k10011032841000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170628/../20170628/K10011032841_1706281211_1706281214_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

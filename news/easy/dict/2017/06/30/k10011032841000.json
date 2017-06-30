@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>伝言</rb><rt>でんごん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>挨拶</rb><rt>あいさつ</rt></ruby>のことば。<ruby><rb>声明文</rb><rt>せいめいぶん</rt></ruby>。",
+          "hyouki": [
+            "メッセージ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>をやったりもらったりすること。",
+          "hyouki": [
+            "やり取り"
+          ]
+        },
+        {
+          "def": "ことばの<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>答</rb><rt>こた</rt></ruby>え。",
+          "hyouki": [
+            "やり取り"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>くなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広々</rb><rt>ひろびろ</rt></ruby>と<ruby><rb>見</rb><rt>み</rt></ruby>わたせる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>い</rt></ruby>きわたる。",
+          "hyouki": [
+            "広がる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "広がる"
+          ]
+        }
+      ]
+    }
+  }
+}
